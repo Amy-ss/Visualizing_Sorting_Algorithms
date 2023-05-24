@@ -3,16 +3,16 @@ A web application portraying the functioning of different sorting algorithms.
 
 Implemented algorithms:
 
-1 > Bubble sort
-2 > Selection sort
-3 > Insertion sort
-4 > Merge sort
-5 > Quick sort
+1 . Bubble sort
+2 . Selection sort
+3 . Insertion sort
+4 . Merge sort
+5 . Quick sort
 
 Features:
 
 1.Block colored representation of the steps being executed.
- Color Specifications-
+  Color Specifications-
 a) Teal: Default 
 b) Yellow: Being compared 
 c) Red: Identified as in incorrect position and to be moved 
